@@ -1,0 +1,114 @@
+
+*{
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.nav {
+    background-color: aliceblue;
+    height: 300px;
+}
+
+.nav-item{
+    height: 100%;
+    font-size: 1.25rem;
+    background-color: bisque;
+    letter-spacing: 0.0875rem
+}
+
+.logo{
+    background-color: azure
+}
+
+.logo img{
+    height: 20vh;
+    width: auto;
+}
+
+.banner{
+    height: 100vh;
+    background-image: url('../assets/josef-azam@2x.png');
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.container-1{
+    background-color:#ececec;
+    height: 89vh;
+}
+
+.city-D {
+    background-color: pink;
+    
+}
+
+.city-D img{
+    height: 20vh
+    
+}
+
+.building-D img{
+    height: auto;
+    width: 80%
+}
+
+.container-2{
+    background-color: lightyellow;
+    height: 40vh;
+}
+
+.talk{
+    font-size: 3rem;
+    background-color: oldlace;
+}
+
+.talk-img{
+    height: 30vh;
+    background-color: lavender
+}
+
+.container-3{
+    height: 75vh;
+    background-color: lightgrey
+}
+
+.follow-D{
+    font-size: 1.5rem
+}
+
+.family{
+    height: 20vh;
+    background-color: indianred
+}
+
+.container-footer{
+    background-color: black;
+    height: 20vh;
+
+}
+
+.footer-title{
+    height: 10vh;
+    font-size: 3rem;
+    color: white;
+    text-align: start
+}
+
+.footer-input{
+    font-size: 1.2rem;
+    color: grey;
+    text-align: start
+
+}
+
+.footer-icon{
+    font-size: 1.2rem;
+    color: grey
+
+}
+
+
+
